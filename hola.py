@@ -6,6 +6,7 @@ Sergio Carro Albarrán
 SAT-ITT
 """
 
+
 # Clase de la que van a heredar tanto hola como adios
 # ya que tienen un funcionamiento similar
 class repeat:
