@@ -47,7 +47,7 @@ class app:
     def __str__(self):
         return "default app"
 
-
+# Other app
 class otherApp(app):
     def __str__(self):
         return "other default app"
