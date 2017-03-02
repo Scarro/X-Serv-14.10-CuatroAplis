@@ -127,4 +127,3 @@ if __name__ == "__main__":
                '/adios': adiosApp, '/suma/': sumaApp,
                '/aleat/': aleatApp}
     testWebApp = webApp("localhost", 1234, queries)
-    

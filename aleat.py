@@ -8,8 +8,9 @@ SAT GITT
 
 import random
 
+
 class aleatorias:
-    
+
     def parse(self, request, rest):
         return rest
 
