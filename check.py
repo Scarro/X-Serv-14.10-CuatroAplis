@@ -5,7 +5,7 @@
 Script de comprobación de entrega de ejercicio
 
 Para ejecutarlo, desde la shell:
- $ python check.py login_github
+$ python check.py login_github
 
 """
 
