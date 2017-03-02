@@ -7,6 +7,7 @@ SAT GITT
 """
 
 class suma:
+
     sumando1 = None
 
     def parse(self, request, rest):
